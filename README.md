@@ -47,4 +47,3 @@ AI-Prompt-Generator/
 ## Author
 
 **Gautam Khatri**
-# AI-Prompt-Genrator

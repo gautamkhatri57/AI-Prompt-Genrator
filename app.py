@@ -18,7 +18,7 @@ st.title("🤖 AI Prompt Generator")
 st.write("Enter your task and get a professional AI prompt.")
 
 client = Groq(
-    api_key="YOUR AIP KEY"
+    api_key="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"
 )
 
 task = st.text_area(
